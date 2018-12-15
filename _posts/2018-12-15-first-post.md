@@ -4,7 +4,7 @@ date: 2018-12-15 17:15:00 -0400
 categories: HTML5 update
 ---
 
-H1 태그에 관해..
+H1 태그는 몇번 사용할 수 있을까?
 =============
 
 예전, H1태그에 대해 의문을 품었던 적이 있습니다.
@@ -14,6 +14,7 @@ H1 태그에 관해..
 그래서 W3C 권고안을 읽고 공부하게 되면서 무엇이 맞는지 정리가 되었습니다.
 
 아래는 W3C HTML5 Recommendation에서, h1-h6까지의 내용입니다.
+
 
 > These elements represent headings for their sections. 
 The semantics and meaning of these elements are defined in the section on headings and sections. 
