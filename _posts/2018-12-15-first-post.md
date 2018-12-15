@@ -1,5 +1,5 @@
 ---
-title: "[HTML5] H1 태그에 관해"
+title: "[HTML5] H1 태그는 몇번 사용할 수 있을까?"
 date: 2018-12-15 17:15:00 -0400
 categories: HTML5 update
 ---
@@ -29,5 +29,5 @@ h1-h6 elements must not be used to markup subheadings, subtitles, alternative ti
 
 참고url
 ------------------
-[4.4 Sections — HTML5 - World Wide Web Consortium] https://www.w3.org/TR/2011/WD-html5-20110525/sections.html
-[The HTML5 outline algorithm] https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
+<https://www.w3.org/TR/2011/WD-html5-20110525/sections.html> <br>
+<https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines>
