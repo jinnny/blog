@@ -4,7 +4,8 @@ date: 2018-12-15 17:15:00 -0400
 categories: HTML5 update
 ---
 
-#H1 태그에 관해..
+H1 태그에 관해..
+=============
 
 예전, H1태그에 대해 의문을 품었던 적이 있습니다.
 어디서는 한번만 사용해야한다. 아니다. 여러번 사용이 가능하다.
@@ -25,6 +26,7 @@ h1-h6 elements must not be used to markup subheadings, subtitles, alternative ti
 살펴보니, HTML5에 대한 W3C의 권고안도 계속 업데이트 되는 중이더군요. 앞으로 계속 살피며 연구해야 할 것 같습니다.
 
 
-##참고url
+참고url
+------------------
 [4.4 Sections — HTML5 - World Wide Web Consortium] https://www.w3.org/TR/2011/WD-html5-20110525/sections.html
 [The HTML5 outline algorithm] https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
