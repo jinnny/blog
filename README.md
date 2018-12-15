@@ -1,2 +1,2 @@
-# yangblog.github.io
+# yang eun jin
 블로그
