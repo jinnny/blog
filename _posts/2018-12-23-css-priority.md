@@ -20,22 +20,26 @@ div {
   color:gray !important;
 }
 ``` 
+
 2. inline에 직접 기입(style) 
 ```
  <div id="one" style="color:gray" class="two"> 
 ```
+
 3. id선택자 
 ```
 #one {
   color:gray
 }
 ``` 
+
 4. class선택자 
 ```
 .two {
   color:gray
 }
 ```
+
 5. type 
 ```
 div {
