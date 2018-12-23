@@ -21,9 +21,9 @@ div {
 }
 ``` 
 
-2. inline에 직접 기입(style) 
+2. inline에 직접 기입
 ```
- <div id="one" style="color:gray" class="two"> 
+ div id="one" style="color:gray" class="two" 
 ```
 
 3. id선택자 
