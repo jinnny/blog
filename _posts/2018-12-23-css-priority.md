@@ -14,8 +14,12 @@ CSS는 선언하는 방법이 여러가지 입니다.
 
 적용 우선순위
 ------
-1. 속성뒤에 important를 기입
-
+1. 속성뒤에 !important를 기입
+```
+div {
+  color:gray !important;
+}
+``` 
 2. inline에 직접 기입(style) 
 ```
  <div id="one" style="color:gray" class="two"> 
