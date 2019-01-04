@@ -8,7 +8,6 @@ Smart Component vs Dumb Component
 =============
 
 Nomad Corder 사이트에서 React 공부를 시작했습니다.
-
 어렵기에 공부했던 내용들을 정리합니다.
 
 Smart Component 와 Dumb Component 정리를 합니다.
