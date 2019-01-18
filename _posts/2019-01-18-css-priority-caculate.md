@@ -47,7 +47,7 @@ ex) :active  :checked  :disabled  :empty  :enabled
 ex) input[type="submit"] { font-size: 15px;}
 ```
 
-4. Element 를 이용해 선언
+4.Element 를 이용해 선언
 - element를 이용해 선언할 경우(1)
 ```
 ex) h1 { font-size: 15px; }
