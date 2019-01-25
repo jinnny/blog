@@ -1,6 +1,6 @@
 ---
 title: "[HTML5] 웹표준을 준수하는법! HTML5 Style Guide 1"
-date: 2019-01-19 14:30:00 -0400
+date: 2019-01-25 15:30:00 -0400
 categories: HTML5 웹표준 
 ---
 
