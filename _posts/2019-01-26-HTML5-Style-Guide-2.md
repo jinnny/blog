@@ -43,11 +43,11 @@ Do not use unnecessary blank lines and indentation. It is not necessary to inden
 
 Omitting <html> and <body>?
 -------------
-<html> 과 <body>를 생략하는 것?
+html 과 body를 생략하는 것?
 
-In the HTML5 standard, the <html> tag and the <body> tag can be omitted.<br>
+In the HTML5 standard, the html tag and the body tag can be omitted.<br>
 The following code will validate as HTML5:<br>
-HTML5 표준에서(따르면) , <html>태그와 <body> 태그는 생략될 수 있습니다.<br>
+HTML5 표준에서(따르면) , html 태그와 body 태그는 생략될 수 있습니다.<br>
 다음의 코드는 HTML5로써 유효할 것입니다.<br>
 
 
@@ -62,10 +62,10 @@ HTML5 표준에서(따르면) , <html>태그와 <body> 태그는 생략될 수 �
 ```
 
 
-However, We do not recommend omitting the <html> and <body> tags. <br>
-The <html> element is the document root. It is the recommended place for specifying the page language:<br>
-하지만 우리는 <html>태그와 <body> 태그를 생략하는 것을 권고하지 않습니다.<br>
-<html>요소는 문서의 뿌리입니다. 페이지언어를 열기위해 권고되는 위치입니다.<br>
+However, We do not recommend omitting the html and body tags. <br>
+The html element is the document root. It is the recommended place for specifying the page language:<br>
+하지만 우리는 html태그와 body태그를 생략하는 것을 권고하지 않습니다.<br>
+html요소는 문서의 뿌리입니다. 페이지언어를 열기위해 권고되는 위치입니다.<br>
 
 ```
 <!DOCTYPE html>
@@ -75,8 +75,8 @@ The <html> element is the document root. It is the recommended place for specify
 Declaring a language is important for accessibility applications (screen readers) and search engines.<br>
 언어를 선언하는 것은 검색엔진과 접근가능한 어플리케이션 (스크린 리더)에게 중요합니다.
 
-Omitting <html> or <body> can crash DOM and XML software.<br>
-Omitting <body> can produce errors in older browsers (IE9).<br>
+Omitting html or body can crash DOM and XML software.<br>
+Omitting body can produce errors in older browsers (IE9).<br>
 html나 body를 생략하는 것은 돔과 XML 소프트웨어가 충돌할 수 있습니다.<br>
 body를 생략하는 것은 오래된 브라우저(IE9 같은..)에게 오류들을 띄울 수 있습니다.
 
@@ -84,7 +84,7 @@ body를 생략하는 것은 오래된 브라우저(IE9 같은..)에게 오류들
 Meta Data
 ------------
 
-The <title> element is required in HTML5. Make the title as meaningful as possible:<br>
+The title element is required in HTML5. Make the title as meaningful as possible:<br>
 
 ```
 <title>HTML5 Syntax and Coding Style</title>
@@ -101,19 +101,21 @@ Setting The Viewport
 -------
 뷰포트 설정하기
 
-HTML5 introduced a method to let web designers take control over the viewport, through the <meta> tag.<br>
+HTML5 introduced a method to let web designers take control over the viewport, through the meta tag.<br>
 HTML5는  웹디자이너가 메타 뷰포트를 통제할 방법을 소개했습니다.
 
 The viewport is the user's visible area of a web page. It varies with the device, and will be smaller on a mobile phone than on a computer screen.<br>
 뷰포트는 웹페이지에서 사용자 기기의 보이는 영역입니다. 기기에 의해 변합니다. 그리고 컴퓨터 스크린보다 휴대폰에서 작을 것입니다.
 
-You should include the following <meta> viewport element in all your web pages:<br>
+You should include the following meta viewport element in all your web pages:<br>
 당신은 모든 당신의 웹페이지안에  다음의 meta 태그와 같은 뷰포트 요소를 포함해야합니다.
 
-```<meta name="viewport" content="width=device-width, initial-scale=1.0">```
+```
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
 
 
-A <meta> viewport element gives the browser instructions on how to control the page's dimensions and scaling.<br>
+A meta viewport element gives the browser instructions on how to control the page's dimensions and scaling.<br>
 meta 뷰포트 요소는 브라우저에게 페이지의 크기와 크기조정을 컨트롤할 방법을 줍니다.
 
 The width=device-width part sets the width of the page to follow the screen-width of the device (which will vary depending on the device).<br>
