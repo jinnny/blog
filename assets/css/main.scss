@@ -4,6 +4,16 @@
 
 @charset "utf-8";
 
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Ubuntu:300,400,500,700');
+
+$link-color: #009688;
+$doc-font-size: 11px;
+$sans-serif: 'Ubuntu', Lato, sans-serif;
+$type-size-3: 1.3rem;
+$type-size-4: 1rem;
+$type-size-6: .6rem;
+$serif: 'Ubuntu','Roboto', Lato, serif, 'Noto Sans KR';
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 

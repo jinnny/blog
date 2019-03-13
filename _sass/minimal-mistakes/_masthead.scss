@@ -10,12 +10,17 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
   z-index: 20;
+  background: #fff;
+  margin-bottom: 20px;
+  -webkit-box-shadow: 0 5px 10px #f3f3f3;
+  -moz-box-shadow: 0 5px 10px #f3f3f3;
+  box-shadow: 0 5px 10px #f3f3f3;
 
   &__inner-wrap {
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 1em;
+    padding: .5rem 1rem;
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -23,7 +28,7 @@
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    font-family: $sans-serif-narrow;
+    font-family: $serif;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
