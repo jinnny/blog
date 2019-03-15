@@ -1,7 +1,8 @@
 ---
 title: "[CSS] CSS z-index"
 date: 2019-02-10 11:00:00 -0400
-categories: CSS z-index
+categories: CSS 
+tags: z-index CSS
 ---
 
 CSS z-index Property

@@ -185,6 +185,8 @@
     margin: 0 1rem;
     color: $masthead-link-color;
     text-decoration: none;
+    font-size: .8rem;
+    font-weight: 300;
 
     &:hover {
       color: $masthead-link-color-hover;
@@ -198,6 +200,7 @@
     &.site-title {
       margin-left: 0;
       color: $link-color;
+      font-weight: 300;
     }
   }
 

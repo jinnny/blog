@@ -1,11 +1,11 @@
 ---
-layout: archive
+layout: tags
 permalink: /tags/
 title: "Posts by Tag"
 author_profile: true
 ---
 {% include group-by-array collection=site.posts field="tags" %}
-<ul>
+<ul class="tag-list">
   {% for tag in site.tags %}
   <span>
       <a href="#{{ tag | first }}">

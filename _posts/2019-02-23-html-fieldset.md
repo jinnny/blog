@@ -1,7 +1,8 @@
 ---
-title: "[HTML] fieldset tag 와 legend tag"
+title: "[HTML5] fieldset tag 와 legend tag"
 date: 2019-02-23 13:00:00 -0400
-categories: HTML fieldset legend
+categories: HTML5
+tags: HTML5 fieldset legend
 ---
 
 form 구성요소 fieldset와 legend tag
