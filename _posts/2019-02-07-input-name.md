@@ -2,7 +2,7 @@
 title: "[HTML5] input 태그 name 값에 대해"
 date: 2019-02-07 10:05:00 -0400
 categories: HTML5
-tags: HTML5, input, input속성 
+tags: HTML5 input input속성
 ---
 
 개발자와 협업해서 진행해야하는 부분이 많다보니

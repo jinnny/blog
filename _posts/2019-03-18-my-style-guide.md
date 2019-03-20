@@ -6,13 +6,13 @@ tags: 스타일가이드 Sass
 ---
 
 My Sass Style Guide
--------
+======
 
 UI Frameworks를 베이스로 사용하지 않을 때 일반 스타일 가이드 입니다.  
 형식과 구조는 작업시 최대한 준수하고 있으며, 새롭게 알게되는 부분은 즉시 반영합니다.  
 
 형식
-====
+------
 1. 들여쓰기(indent)는 기본 space 2칸을 기준으로 사용합니다. (예외: JavaScript의 경우 - 4칸)  
 2. ID 선택자는 사용을 지양합니다.  
 3. Class Naming은 BEM(Block-Element-Modifier) 방식을 바탕으로 하되, OOCSS(Object Oriented CSS)을 혼용해서 사용이 가능하며, 하이픈(-) 이나 언더바(_) 사용을 지향합니다. (Camel case는 지양)  
@@ -75,7 +75,7 @@ js-(접두어)
 ```
 
 구조
-====
+------
 
 1. base
     1. _reset.scss (초기화)
@@ -108,7 +108,7 @@ index.scss
 
 
 구조 네이밍 규칙
-====
+------
 1. import 파일은 파일명 앞에 언더바(_)를 사용합니다.
 2. 단어와 단어사이에는 하이픈(-)을 사용합니다.
 3. vendors의 경우에는 때에 따라 css파일을 import합니다.

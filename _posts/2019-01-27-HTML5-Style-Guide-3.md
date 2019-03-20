@@ -2,6 +2,7 @@
 title: "[HTML5] 웹표준을 준수하는법! HTML5 Style Guide 3"
 date: 2019-01-27 13:05:00 -0400
 categories: HTML5 웹표준 
+tags: HTML5 웹표준
 ---
 
 지난번 포스팅에 이은 HTML5 Style Guide 마지막 포스팅입니다.

@@ -1,7 +1,8 @@
 ---
 title: "[HTML5] Semantic Element Article 과 Section"
 date: 2019-01-28 15:00:00 -0400
-categories: HTML5 웹표준 Semantic
+categories: HTML5 웹표준
+tags: HTML5 웹표준 Semantic
 ---
 
 HTML5에서 가장 중요한 것은 무엇일까요?<br>

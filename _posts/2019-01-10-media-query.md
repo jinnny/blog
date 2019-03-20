@@ -1,7 +1,8 @@
 ---
 title: "[React] Media query Orientation, Media query로 가로세로 방향이 체크가 가능할까?"
 date: 2019-01-10 11:30:00 -0400
-categories: CSS 미디어쿼리 MediaQuery
+categories: CSS 
+tags: CSS 미디어쿼리 MediaQuery
 ---
 
 Media query  Orientation

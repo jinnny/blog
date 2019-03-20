@@ -2,6 +2,7 @@
 title: "[React] Smart Component vs Dumb Component"
 date: 2019-01-04 18:00:00 -0400
 categories: React study
+tags: study
 ---
 
 Smart Component vs Dumb Component

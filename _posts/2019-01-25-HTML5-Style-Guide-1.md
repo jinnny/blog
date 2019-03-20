@@ -1,7 +1,8 @@
 ---
 title: "[HTML5] 웹표준을 준수하는법! HTML5 Style Guide 1"
 date: 2019-01-25 15:30:00 -0400
-categories: HTML5 웹표준 
+categories: HTML5 웹표준
+tags: HTML5 웹표준 
 ---
 
 작성자의 ~카더라 보다는 직접 원문을 보고 해석해서 보고 싶었기에 저는 이 부분을 직접 번역해 보기로 결심했습니다.

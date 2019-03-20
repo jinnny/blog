@@ -2,6 +2,7 @@
 title: "[CSS] CSS 적용 우선순위 계산"
 date: 2019-01-18 14:30:00 -0400
 categories: CSS
+tags: CSS 우선순위계산
 ---
 
 CSS 적용 우선순위 계산하기

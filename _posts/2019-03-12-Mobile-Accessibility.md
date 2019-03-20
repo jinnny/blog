@@ -1,8 +1,8 @@
 ---
 title: "[HTML5] Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile 번역하기"
 date: 2019-03-12 21:30:00 -0400
-categories: HTML5
-tags: Mobile HTML5 Accessibility 접근성 모바일접근성
+categories: HTML5 접근성
+tags: Mobile HTML5 Accessibility  모바일접근성
 ---
 
 Mobile Accessibility: How WCAG 2.0 and Other W3C/WAI Guidelines Apply to Mobile

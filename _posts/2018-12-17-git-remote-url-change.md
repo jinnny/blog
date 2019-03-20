@@ -2,6 +2,7 @@
 title: "[Git] Git remove 변경하기(원격 저장소 URL 변경하기)"
 date: 2018-12-17 18:15:00 -0400
 categories: Git
+tags: Git
 ---
 
 Git remove 변경하기(원격 저장소 URL 변경하기)

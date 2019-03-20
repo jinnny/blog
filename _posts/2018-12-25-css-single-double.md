@@ -2,6 +2,7 @@
 title: "[CSS] :(single colon)과 ::(double colon)의 차이"
 date: 2018-12-25 12:00:00 -0400
 categories: CSS
+tags: CSS colon
 ---
 
 :(single colon)과 ::(double colon)의 차이

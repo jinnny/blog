@@ -1,7 +1,8 @@
 ---
 title: "[CSS] 웹 폰트와 최적화"
 date: 2019-01-02 13:00:00 -0400
-categories: webfont CSS 최적화
+categories: CSS
+tags: CSS 웹폰트 webfont 최적화
 ---
 
 webfont 웹 폰트?

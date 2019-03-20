@@ -1,7 +1,8 @@
 ---
 title: "[HTML5] H1 태그는 몇번 사용할 수 있을까?"
 date: 2018-12-15 17:15:00 -0400
-categories: HTML5 update
+categories: HTML5 
+tags: HTML5 H1
 ---
 
 H1 태그는 몇번 사용할 수 있을까?

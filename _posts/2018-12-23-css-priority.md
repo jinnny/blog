@@ -2,6 +2,7 @@
 title: "[CSS] CSS 적용 우선순위"
 date: 2018-12-23 23:00:00 -0400
 categories: CSS
+tags: CSS
 ---
 
 CSS 적용 우선순위

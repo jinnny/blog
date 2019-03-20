@@ -1,7 +1,8 @@
 ---
 title: "[Style] 작업 스타일가이드"
 date: 2018-12-19 17:00:00 -0400
-categories: CSS Sass Styleguide
+categories: CSS
+tags: Sass Styleguide
 ---
 
 작업 스타일가이드

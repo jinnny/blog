@@ -2,6 +2,7 @@
 title: "[HTML] 로고나 아이콘에 SVG를 사용해야하는 이유"
 date: 2019-01-19 14:30:00 -0400
 categories: HTML SVG 
+tags: SVG
 ---
 
 로고나 아이콘에 왜 SVG를 사용해야할까?
