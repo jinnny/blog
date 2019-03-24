@@ -1,11 +1,11 @@
 ---
-title: "[HTML] \<head> 태그 내부에 사용하는 \<meta> 태그에 대해"
-date: 2019-03-24 21:00:00 -0400
+title: "[HTML] head 태그 내부에 사용하는 meta 태그에 대해"
+date: 2019-03-24 20:40:00 -0400
 categories: HTML 
 tags: meta 
 ---
 
-\<meta> tag (메타 태그)
+meta tag (메타 태그)
 ======
 
 메타 태그는 head 태그 내부에서 사용됩니다.   
